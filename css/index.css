@@ -36,3 +36,21 @@ section{
     padding-right: 2em;
     padding-bottom: 3em;
 }
+.bordes{
+    margin: 3em;
+    padding: 2em;
+    border-style: solid;
+
+}
+.bordediv{
+    margin: 2em;
+    padding: 3em;
+    border-style: solid;
+}
+.anchodeborde{
+    margin: 2em;
+    padding: 2em;
+    border-style: double;
+    border-width: 1em;
+    border-top-color: #24d6d6;
+}
