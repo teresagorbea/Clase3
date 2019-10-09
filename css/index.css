@@ -78,3 +78,10 @@ position: relative;
 top: 3em;
 left: 3em;
 }
+.normal {
+    width: 350px;
+    border: 2px solid #23ccff;
+    }
+.normal th, .normal td {
+    border: 1px dashed #78dd89;
+    }
