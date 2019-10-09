@@ -100,3 +100,13 @@ left: 3em;
         color: #ff008c;
         border-bottom: 3px solid #ff008c;
         }
+
+.cajabotones{
+    margin: 1em;
+    padding: 2em;
+    border: .25em solid #78dd89;
+    background-image: url(imagenes/hqdefault-7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
