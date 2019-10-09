@@ -80,8 +80,15 @@ left: 3em;
 }
 .normal {
     width: 350px;
-    border: 2px solid #23ccff;
+    border-top: 15px solid #23ccff;
+    border-bottom: 15px solid #23ccff;
+    border-left: 15px solid #8223ff;
+    border-right: 15px solid #8223ff;
+    margin: 1em;
+    padding: 1em;
+
     }
 .normal th, .normal td {
-    border: 1px dashed #78dd89;
+    border: 3px dashed #78dd89;
+    padding: 1em;
     }
