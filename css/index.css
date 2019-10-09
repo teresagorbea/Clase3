@@ -20,5 +20,19 @@ body{
 }
 
 section{
-    font-size: 18px;
+    font-size: 30px;
+}
+
+.medidas{
+    font-size: 5em;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-right: 3em;
+    margin-bottom: 0.5em;
+}
+.medidasrelleno{
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 2em;
+    padding-bottom: 3em;
 }
